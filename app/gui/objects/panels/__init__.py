@@ -1,0 +1,4 @@
+from .connection_panel import ConnectionPanel
+from .autopilot_settings_panel import AutopilotSettingsPanel
+from .pid_settings_panel import PIDSettingsPanel
+from .oscilloscope_panel import OscilloscopePanel

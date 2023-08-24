@@ -1,0 +1,15 @@
+click==8.1.3
+Cython==0.29.33
+glfw==2.5.6
+pycairo==1.23.0
+PyOpenGL==3.1.6
+pyplotgui==1.0.0
+scipy==1.10.1
+construct==2.10.68
+dill==0.3.6
+flightgear-python==1.3.0
+multiprocess==0.70.12.2
+numpy==1.24.3
+opencv-python==4.7.0.72
+onnxruntime~=1.15.0
+onnxruntime-gpu~=1.15.0
